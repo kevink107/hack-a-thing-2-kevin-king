@@ -6,6 +6,7 @@
 I followed a SwiftUI tutorial on how to implement the Apple HealthKit to extract user health data. The features included activity cards with different health stats as well as step charts for different time periods (e.g., last 6 months, last year)
 
 Screenshots:
+
 [Welcome page with different health/workout stats](IMG_0064.PNG)
 
 [1-week step data](IMG_0065.PNG)
